@@ -1,0 +1,12 @@
+# Ignore all log files
+*.log
+
+# Ignore R data files
+*.RData
+*.Rhistory
+
+# Ignore Python compiled files
+*.pyc
+
+# Ignore local configuration files
+config.yml
